@@ -1,0 +1,100 @@
+4.5;Gobernanza
+4.5.1;Organizacion
+4.5.1.1;Integracion interdepartamental; La medida en que los departamentos administrativos contribuyen a las iniciativas y la gestion de "ciudad inteligente"
+4.5.1.2;Establecimiento dentro de la administracion; La medida en que la estrategia inteligente ha sido asignada a un departamento/director y se han asignado recursos de personal
+4.5.1.3;Monitoreo y evaluacion; La medida en que se esta monitoreando e informando el progreso hacia una ciudad inteligente y el cumplimiento de los requisitos
+4.5.1.4;Disponibilidad de datos gubernamentales; La medida en que se publica la informacion del gobierno
+4.5.2;Participacion comunitaria
+4.5.2.1;Participacion ciudadana; Numero de proyectos en los que los ciudadanos participaron activamente como porcentaje del total de proyectos ejecutados
+4.5.2.2;Participacion publica abierta; Numero de procesos de participacion publica por 100.000 por ano
+4.5.2.3;Participacion electoral; % de personas que votaron en la ultima eleccion municipal como porcentaje de la poblacion total elegible para votar
+4.5.3;Gobernanza multinivel
+4.5.3.1;Politica de ciudad inteligente; La medida en que la ciudad tiene una politica de ciudad inteligente de apoyo
+4.5.3.2;Gastos del municipio para una transicion hacia una ciudad inteligente; Gastos anuales del municipio para una transicion hacia una ciudad inteligente
+4.5.3.3;Gobierno multinivel; La medida en que la ciudad coopera con otras autoridades de diferentes niveles
+4.2;Personas
+4.2.1;Salud
+4.2.1.1;Acceso a servicios basicos de salud; Porcentaje de la poblacion con acceso a servicios basicos de salud dentro de los 500m
+4.2.1.2;Fomento de un estilo de vida saludable; La medida en que se realizan esfuerzos politicos para fomentar un estilo de vida saludable
+4.2.1.3;Accidentes de trafico; Numero de muertes por transporte por cada 100.000 habitantes
+4.2.2;Seguridad
+4.2.1.1;Accidentes de trafico; Numero de muertes por transporte por cada 100.000 habitantes
+4.2.2.2;Tasa de criminalidad; Numero de delitos; molestias y crimenes por cada 100.000 habitantes
+4.2.2.3;Ciberseguridad; El nivel de ciberseguridad de los sistemas de la ciudad
+4.2.2.4;Privacidad de los datos; El nivel de proteccion de datos por parte de la ciudad
+4.2.3;Acceso a (otros) servicios
+4.2.3.1;Acceso al transporte publico; Porcentaje de la poblacion con acceso a una parada de transporte publico dentro de los 500m
+4.2.3.2;Acceso a soluciones de vehiculos compartidos para viajes en la ciudad; Numero de vehiculos disponibles para compartir por cada 100.000 habitantes
+4.2.3.3;Longitud de la red de rutas ciclistas; % de carriles y caminos para bicicletas en relacion a la longitud de las calles (excluyendo las autopistas)
+4.2.3.4;Acceso a servicios publicos; Porcentaje de la poblacion con acceso a al menos un tipo de servicio publico dentro de los 500m
+4.2.3.5;Acceso a servicios comerciales; Porcentaje de la poblacion con acceso a al menos seis tipos de servicios comerciales que proporcionan bienes de uso diario dentro de los 500m
+4.2.3.6;Acceso a internet de alta velocidad; Suscripciones de banda ancha fija (cableada) por cada 100 habitantes
+4.2.3.7;Acceso a WiFi publico gratuito; Cobertura de Wi-Fi en espacios publicos
+4.2.3.8;Flexibilidad en los servicios de entrega; La medida en que hay flexibilidad en los servicios de entrega
+4.2.4;Educacion
+4.2.4.1;Acceso a recursos educativos; La medida en que la ciudad proporciona facil acceso (ya sea fisico o digital) a una amplia cobertura de recursos educativos
+4.2.4.2;Educacion ambiental; El porcentaje de escuelas con programas de educacion ambiental
+4.2.4.3;Alfabetizacion digital; Porcentaje del grupo objetivo alcanzado
+4.2.5;Calidad de la vivienda y el entorno construido
+4.2.5.1;Diversidad de la vivienda; Indice de diversidad de Simpson del total de viviendas en el area del proyecto O porcentaje de viviendas sociales como porcentaje del total de viviendas en el area del proyecto
+4.2.5.2;Preservacion del patrimonio cultural; La medida en que se considera la preservacion del patrimonio cultural de la ciudad en la planificacion urbana
+4.2.5.3;Uso de la planta baja; Porcentaje de la superficie de la planta baja de los edificios que se utiliza para fines comerciales o publicos como porcentaje del total de la superficie de la planta baja
+4.2.5.4;Recreacion al aire libre publica; Metros cuadrados de espacio de recreacion al aire libre por habitante
+4.2.5.5;Espacio verde; Area verde (hectareas) por cada 100.000 habitantes
+4.3;Planeta
+4.3.1;Energia y mitigacion
+4.3.1.1;Consumo final anual de energia; Consumo final anual de energia para todos los usos y formas de energia
+4.3.1.2;Energia renovable generada dentro de la ciudad; El porcentaje de energia total derivada de fuentes renovables como porcentaje del consumo total de energia de la ciudad
+4.3.1.3;Emisiones de CO2; Emisiones de CO2 en toneladas per capita por ano
+4.3.1.4;Combustible de transporte de carga local; La proporcion de combustibles renovables en la mezcla de combustible de transporte de carga local
+4.3.2;Materiales, agua y tierra
+4.3.2.1;Consumo domestico de materiales; La cantidad total de material utilizado directamente en la ciudad per capita
+4.3.2.2;Consumo de agua; Consumo total de agua per capita por dia
+4.3.2.3;Uso de agua gris y de lluvia; Porcentaje de casas equipadas para reutilizar agua gris y de lluvia
+4.3.2.4;Indice de Explotacion del Agua; Abstraccion total anual de agua como porcentaje de los recursos de agua dulce disponibles a largo plazo en el area geograficamente relevante (cuenca) de la que la ciudad obtiene su agua
+4.3.2.5;Perdidas de agua; Porcentaje de perdida de agua del consumo total de agua
+4.3.2.6;Densidad de poblacion; Numero de personas por km2
+4.3.2.7;Produccion local de alimentos; Porcentaje de consumo de alimentos producido dentro de un radio de 100 km
+4.3.2.8;Uso de terrenos abandonados; Porcentaje del area de terrenos abandonados que ha sido reutilizada en el periodo pasado como porcentaje del total del area de terrenos abandonados
+4.3.3;Resiliencia climatica
+4.3.3.1;Estrategia de resiliencia climatica; La medida en que la ciudad ha desarrollado e implementado una estrategia de resiliencia climatica
+4.3.3.2;Estrategia de resiliencia climatica; La medida en que la ciudad ha desarrollado e implementado una estrategia de resiliencia climatica
+4.3.4;Contaminacion y residuos
+4.3.4.1;Emisiones de oxidos de nitrogeno (NOx); Emisiones anuales de oxidos de nitrogeno (NO y NO2) per capita
+4.3.4.2;Emisiones de material particulado fino (PM2.5); Concentracion anual de contaminantes atmosfericos relevantes
+4.3.4.3;Indice de calidad del aire; Concentracion anual de contaminantes atmosfericos relevantes
+4.3.4.4;Contaminacion acustica; Porcentaje de la poblacion afectada por ruido >55 dB(A) durante la noche
+4.3.4.5;Residuos solidos municipales; La cantidad de residuos solidos municipales generados per capita anualmente
+4.3.4.6;Tasa de reciclaje; Porcentaje de residuos solidos de la ciudad que se reciclan
+4.3.5;Ecosistema
+4.3.5.1;Porcentaje de espacios verdes y acuaticos; Porcentaje de la superficie de espacios verdes y acuaticos en relacion con la superficie total de la tierra
+4.3.5.2;Cambio en el numero de especies nativas; Cambio neto en el numero de especies nativas
+4.4;Prosperidad
+4.4.1;Empleo
+4.4.1.1;Tasa de desempleo; Porcentaje de la poblacion activa desempleada
+4.4.1.2;Tasa de desempleo juvenil; Porcentaje de la poblacion activa juvenil desempleada
+4.4.2;Equidad
+4.4.2.1;Pobreza energetica; Porcentaje de hogares que no pueden permitirse los niveles mas basicos de energia
+4.4.2.2;Asequibilidad de la vivienda; % de poblacion que vive en viviendas asequibles
+4.4.3;Economia verde
+4.4.3.1;Porcentaje de empresas certificadas; Porcentaje de empresas con sede en la ciudad que poseen un certificado ISO 14001
+4.4.3.2;Porcentaje de Contratacion Publica Verde; Porcentaje anual de contratacion utilizando criterios ambientales como porcentaje de la contratacion anual total de la administracion de la ciudad
+4.4.3.3;Empleos verdes; Porcentaje de empleos relacionados con actividades de servicios ambientales que contribuyen sustancialmente a preservar o restaurar la calidad ambiental
+4.4.3.4;Movimiento de carga; El movimiento de carga se define como el numero de vehiculos de carga que ingresan a un area (por ejemplo, la ciudad)
+4.4.4;Desempeno economico
+4.4.4.1;Producto Interno Bruto; Producto interno bruto per capita de la ciudad
+4.4.4.2;Nuevas empresas registradas; Numero de nuevas empresas por cada 100.000 habitantes
+4.4.4.3;Ingreso disponible medio; Ingreso disponible medio anual de los hogares
+4.4.5;Innovacion
+4.4.5.1;Industria creativa; Porcentaje de personas que trabajan en industrias creativas
+4.4.5.2;Centros de innovacion en la ciudad; Numero de centros de innovacion en la ciudad, ya sean privados o publicos, por cada 100.000 habitantes
+4.4.5.3;Accesibilidad de conjuntos de datos abiertos; La medida en que los datos abiertos de la ciudad son faciles de usar
+4.4.5.4;Intensidad de investigacion; Gasto en I+D como porcentaje del PIB de la ciudad
+4.4.5.5;Datos abiertos; Numero de conjuntos de datos abiertos del gobierno por cada 100.000 habitantes
+4.4.6;Atractivo y competitividad
+4.4.6.1;Congestion; Aumento en los tiempos de viaje en comparacion con la situacion de flujo libre (situacion sin congestion)
+4.4.6.2;Uso del transporte publico; Numero anual de viajes en transporte publico per capita
+4.4.6.3;Migracion neta; Tasa de cambio de poblacion debido a la migracion por cada 1000 habitantes
+4.4.6.4;Razon de dependencia de la poblacion; Numero de personas economicamente dependientes (consumidores netos) por cada 100 personas economicamente activas (productores netos)
+4.4.6.5;Eventos internacionales organizados; Numero de eventos internacionales por cada 100.000 habitantes
+4.4.6.6;Intensidad del turismo; Numero de noches de turistas por ano por cada 100.000 habitantes
